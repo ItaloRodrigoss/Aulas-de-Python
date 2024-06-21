@@ -1,3 +1,8 @@
+- git init
+- git status
+- git commit -m
+- git config 
 - git branch
 - git branch -m
 - git checkout
+- mescle
